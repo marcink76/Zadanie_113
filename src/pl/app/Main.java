@@ -1,6 +1,6 @@
 package pl.app;
 
-import io.FileRead;
+import pl.app.io.FileRead;
 import java.io.IOException;
 import java.util.Queue;
 
